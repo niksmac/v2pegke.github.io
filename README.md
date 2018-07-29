@@ -16,4 +16,3 @@ website [beta.t3sv.com](https://beta.t3sv.com)
  * jQuery
  * headjs
  * Prism Code Highlight JS
-# v2pegke.github.io
